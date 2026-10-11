@@ -1,0 +1,5 @@
+print("Addition: +")
+print("Subtraction: -")
+print("Multiplication: *")
+print("Division: /")
+print("Division rounded down: //")
